@@ -1,2 +1,2 @@
-Backend Data modelling .
-python package .
+Backend Data modelling.
+python package.
