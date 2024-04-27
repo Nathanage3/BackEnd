@@ -1,7 +1,7 @@
 # AirBnB Clone - The Console
 ## Description
 
-This project is the first step towards building a full web application like AirBnB. The console is a command interpreter to manage objects for the AirBnB(HBnB) project. It can be used to handle and manipulate all the classes used by the application (e.g., User, State, City, Place, etc.).
+This project is the first step towards building a full web application like AirBnB. The console is a command interpreter to manage objects for the AirBnB(HBnB) project. It can be used to handle and manipulate all the classes used by the application (e.g., User, State, City, Place, etc.)
 
 # Airbnb Clone
 
