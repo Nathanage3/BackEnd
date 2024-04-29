@@ -30,7 +30,7 @@ The console works both in interactive mode and non-interactive mode, similar to 
 Interactive Mode:
 Run the console (./console.py or python3 console.py) and type commands directly into the prompt.
 
-Example:
+Example>
 
 bash
 Copy code
